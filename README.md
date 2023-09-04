@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vanshika Sharma</h1>
 <h3 align="center">A Machine Learning Enthusiast from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanshika4111" alt="vanshika4111" /></a> </p>
 
 - 📫 How to reach me **sharmavanshikaa123@gmail.com**
 
